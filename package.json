@@ -1,5 +1,5 @@
 {
-  "name": "SocketIOToObservable",
+  "name": "socketio_to_observable",
   "version": "0.0.1",
   "main": "build/index.js",
   "license": "MIT",
